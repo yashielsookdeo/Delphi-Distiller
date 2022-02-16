@@ -12,11 +12,11 @@ Choose what packages and experts are loaded by Delphi 5/6/7/2006/2007/2009/2010.
 How to use
 =======
 
-*When your installation completes, right click on DelphiDistiller and choose RUN AS ADMINISTRATOR
-*Go to the Delphi 2010 tab
-*Click on the Tweaks tab
-*Tick checkbox "Remove Delphi 2010 Update 4/5 license check using lSuper method"
-*Click "OK and Run Delphi 2010".
+* When your installation completes, right click on DelphiDistiller and choose RUN AS ADMINISTRATOR
+* Go to the Delphi 2010 tab
+* Click on the Tweaks tab
+* Tick checkbox "Remove Delphi 2010 Update 4/5 license check using lSuper method"
+* Click "OK and Run Delphi 2010".
 
 Delphi 5 tweaks:
 -----------
